@@ -1,17 +1,11 @@
 {
-  "name": "reshape-demo",
+  "name": "posthtml-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "reshape-include": "^1.0.0"
+  "devDependencies": {
+    "posthtml-include": "^1.1.0"
   },
-  "reshape": {
-    "include": {
-      "root": "./"
-    }
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
